@@ -2,7 +2,7 @@
 
 A Spring Boot REST API for managing a catalog of electronic games.
 
-This application was developed by Rene J. Martins during the DevSuperior's Java Spring Intensive Course in May 2025, taught by Nélio Alves.
+This application was developed by Rene J. Martins during the DevSuperior's Java Spring Intensive Course in May 2025, taught by Professor Dr. Nélio Alves.
 
 ## Technologies
 
